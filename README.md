@@ -40,10 +40,10 @@ pip install -r requirements.txt
 ## ▶️ Run the Bot
 
 ```bash
-streamlit run app.py
+streamlit run CHATBOT.py
 ```
 
-(Replace `app.py` with your actual Streamlit script name if different)
+
 
 ---
 
@@ -51,16 +51,9 @@ streamlit run app.py
 
 * Takes user input via Streamlit
 * Sends requests to Azure AI service
-* Displays responses in real time
+* Displays responses with summary in real time
 
----
 
-## 📝 License
-
-This project is licensed under the MIT License.
-Feel free to use, share, and improve it.
-
----
 
 ## 🙌 Acknowledgements
 
